@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Archivo de datos XML que contiene el catálogo de videojuegos de historia antigua del proyecto -->
+<catalogo propietario="ddadrian2006-alt">
+    <videojuego id="V01">
+        <titulo>Expeditions: Rome</titulo>
+        <genero>Estrategia / RPG</genero>
+        <precio moneda="EUR">12.95</precio>
+        <destacado/>
+    </videojuego>
+    <videojuego id="V02">
+        <titulo>Elden Ring</titulo>
+        <genero>Rol y Acción (RPG)</genero>
+        <precio moneda="EUR">59.95</precio>
+        <destacado/>
+    </videojuego>
+    <videojuego id="V03">
+        <titulo>Assassin's Creed Odyssey</titulo>
+        <genero>Acción y Rol (RPG)</genero>
+        <precio moneda="EUR">19.95</precio>
+        <destacado/>
+    </videojuego>
+</catalogo>
