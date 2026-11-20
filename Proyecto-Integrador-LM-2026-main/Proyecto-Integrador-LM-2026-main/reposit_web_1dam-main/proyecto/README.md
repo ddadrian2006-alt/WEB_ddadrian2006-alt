@@ -54,3 +54,8 @@ Fuentes de las imágenes:
 - Muralla de Sevilla: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLGudQmQ5kdAfnwpgOpcFvgyIWTz0qnHbwQhJ8ngo1A&s=10 
 - Calle Marmoles: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG9AU3aOiiBTTMOri9YtWJlnF6JFk3S21gJdTTBW7jYA&s=10 
 - Templo Augusto: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6S3VCn4H4sfUQmaQLaGnEALLqDwum_0cDH8CqmIY1g&s=10 
+
+
+## ¿Qué he hecho en esta entrega? (Cuarta ENTREGA)- RESUMEN             TEMA 6
+
+He comenzado mejorando el index.html (no sé si se bubió el commit invisible porque se desconfigura cuando quiere del Github, y me di cuenta tarde), en este commit subo esto y modifico mi nombre (Adrián Durán Durán) a ddadrian2006-alt (usuario de GITHUB), el cambio del nombre lo hice desde la nube, dado que intente hacerlo desde la terminal del VS-CODE pero no sabía como, asique le pregunté a Gémini y me dijo muchos comandos raros y para que no me pasase como en la anterior entrega, lo borre y lo hice desde la nube (repositorio-configuración-nombre del repositorio y de Proyecto Integrador a WEBddadrian2006-alt), se que únicamente lo pide en el footer, pero yo lo hago tambien en los demas comandos y textos planos (los de <p>) por si acaso.
